@@ -1,0 +1,19 @@
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\bin\Debug\Arayüz Denemesi 4.exe.config
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\bin\Debug\Arayüz Denemesi 4.exe
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\bin\Debug\Arayüz Denemesi 4.pdb
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\bin\Debug\EntityFramework.dll
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\bin\Debug\EntityFramework.xml
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\obj\Debug\SalonYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\obj\Debug\SalonYonetimSistemi.Form1.resources
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\obj\Debug\Arayüz_Denemesi_4.Properties.Resources.resources
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\obj\Debug\SalonYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\obj\Debug\SalonYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\obj\Debug\SalonYon.3250AF31.Up2Date
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\obj\Debug\Arayüz Denemesi 4.exe
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\SalonYonetimSistemi\Arayüz Denemesi 4\obj\Debug\Arayüz Denemesi 4.pdb

@@ -1,0 +1,38 @@
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\Arayüz Denemesi 4.exe.config
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\Arayüz Denemesi 4.exe
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\Arayüz Denemesi 4.pdb
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz Denemesi 4.csproj.AssemblyReference.cache
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz_Denemesi_4.Form1.resources
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz_Denemesi_4.Properties.Resources.resources
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz Denemesi 4.csproj.GenerateResource.cache
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz Denemesi 4.csproj.CoreCompileInputs.cache
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz Denemesi 4.exe
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz Denemesi 4.pdb
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\EntityFramework.dll
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\System.Data.SQLite.dll
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\EntityFramework.xml
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\System.Data.SQLite.xml
+C:\Users\merto\source\repos\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz Denemesi 4.csproj.CopyComplete
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\Arayüz Denemesi 4.exe.config
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\Arayüz Denemesi 4.exe
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\Arayüz Denemesi 4.pdb
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\EntityFramework.dll
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\EntityFramework.xml
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz Denemesi 4.csproj.AssemblyReference.cache
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz_Denemesi_4.Form1.resources
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz_Denemesi_4.Properties.Resources.resources
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz Denemesi 4.csproj.GenerateResource.cache
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz Denemesi 4.csproj.CoreCompileInputs.cache
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz D.290727E4.Up2Date
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz Denemesi 4.exe
+C:\Users\Tuna\Desktop\Sinema-Bilet-Program--main\Arayüz Denemesi 4\Arayüz Denemesi 4\obj\Debug\Arayüz Denemesi 4.pdb
